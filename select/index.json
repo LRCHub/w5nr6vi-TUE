@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ことばのこり",
+  "base_artist": "Sou",
+  "createdAt": "2026-03-31T13:51:51.198703Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ことばのこり",
+      "artist": "Sou",
+      "has_synced": false,
+      "path": "select/pl_01_ことばのこり_Sou.txt"
+    }
+  ]
+}
